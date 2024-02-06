@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\usuario\source\repos\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\usuario\source\repos\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\usuario\source\repos\Operadores\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\usuario\source\repos\Operadores\Operadores\obj\Debug\Operadores.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\bin\Debug\Operadores.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\bin\Debug\Operadores.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\bin\Debug\Operadores.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\obj\Debug\Operadores.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Operadores\Operadores\Operadores\obj\Debug\Operadores.pdb

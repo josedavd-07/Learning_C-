@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\LoopFor\LoopFor\bin\Debug\LoopFor.exe.config
+C:\Users\usuario\source\repos\LoopFor\LoopFor\bin\Debug\LoopFor.exe
+C:\Users\usuario\source\repos\LoopFor\LoopFor\bin\Debug\LoopFor.pdb
+C:\Users\usuario\source\repos\LoopFor\LoopFor\obj\Debug\LoopFor.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\LoopFor\LoopFor\obj\Debug\LoopFor.exe
+C:\Users\usuario\source\repos\LoopFor\LoopFor\obj\Debug\LoopFor.pdb

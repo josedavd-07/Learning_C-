@@ -1,0 +1,14 @@
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfoInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.AssemblyInfo.cs
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\bin\Debug\net6.0\holaMundo.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\bin\Debug\net6.0\holaMundo.deps.json
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\bin\Debug\net6.0\holaMundo.runtimeconfig.json
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\bin\Debug\net6.0\holaMundo.dll
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\bin\Debug\net6.0\holaMundo.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.dll
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\refint\holaMundo.dll
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\holaMundo.genruntimeconfig.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO AND THREE\holaMundo\obj\Debug\net6.0\ref\holaMundo.dll

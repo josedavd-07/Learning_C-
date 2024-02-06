@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\BreakContinue\BreakContinue\bin\Debug\BreakContinue.exe.config
+C:\Users\usuario\source\repos\BreakContinue\BreakContinue\bin\Debug\BreakContinue.exe
+C:\Users\usuario\source\repos\BreakContinue\BreakContinue\bin\Debug\BreakContinue.pdb
+C:\Users\usuario\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.exe
+C:\Users\usuario\source\repos\BreakContinue\BreakContinue\obj\Debug\BreakContinue.pdb

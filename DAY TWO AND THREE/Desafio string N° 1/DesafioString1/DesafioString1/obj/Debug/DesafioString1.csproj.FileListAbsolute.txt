@@ -1,0 +1,7 @@
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\bin\Debug\DesafioString1.exe.config
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\bin\Debug\DesafioString1.exe
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\bin\Debug\DesafioString1.pdb
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\obj\Debug\DesafioString1.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\obj\Debug\DesafioString1.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\obj\Debug\DesafioString1.exe
+C:\Users\Win10\source\repos\DesafioString1\DesafioString1\obj\Debug\DesafioString1.pdb

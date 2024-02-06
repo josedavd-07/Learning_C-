@@ -1,0 +1,14 @@
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\bin\Debug\DesafioString2.exe.config
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\bin\Debug\DesafioString2.exe
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\bin\Debug\DesafioString2.pdb
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\obj\Debug\DesafioString2.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\obj\Debug\DesafioString2.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\obj\Debug\DesafioString2.exe
+C:\Users\Win10\source\repos\DesafioString2\DesafioString2\obj\Debug\DesafioString2.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\bin\Debug\DesafioString2.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\bin\Debug\DesafioString2.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\bin\Debug\DesafioString2.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\obj\Debug\DesafioString2.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\obj\Debug\DesafioString2.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\obj\Debug\DesafioString2.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY TWO\Desafio string N° 2\DesafioString2\DesafioString2\obj\Debug\DesafioString2.pdb

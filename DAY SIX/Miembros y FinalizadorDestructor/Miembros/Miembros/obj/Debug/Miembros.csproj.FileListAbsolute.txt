@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Miembros\Miembros\bin\Debug\Miembros.exe.config
+C:\Users\usuario\source\repos\Miembros\Miembros\bin\Debug\Miembros.exe
+C:\Users\usuario\source\repos\Miembros\Miembros\bin\Debug\Miembros.pdb
+C:\Users\usuario\source\repos\Miembros\Miembros\obj\Debug\Miembros.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Miembros\Miembros\obj\Debug\Miembros.exe
+C:\Users\usuario\source\repos\Miembros\Miembros\obj\Debug\Miembros.pdb

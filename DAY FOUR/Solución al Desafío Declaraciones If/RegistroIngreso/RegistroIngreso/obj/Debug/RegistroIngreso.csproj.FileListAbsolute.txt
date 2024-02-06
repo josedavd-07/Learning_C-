@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\RegistroIngreso\RegistroIngreso\bin\Debug\RegistroIngreso.exe.config
+C:\Users\usuario\source\repos\RegistroIngreso\RegistroIngreso\bin\Debug\RegistroIngreso.exe
+C:\Users\usuario\source\repos\RegistroIngreso\RegistroIngreso\bin\Debug\RegistroIngreso.pdb
+C:\Users\usuario\source\repos\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.exe
+C:\Users\usuario\source\repos\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\bin\Debug\RegistroIngreso.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\bin\Debug\RegistroIngreso.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\bin\Debug\RegistroIngreso.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución al Desafío Declaraciones If\RegistroIngreso\RegistroIngreso\obj\Debug\RegistroIngreso.pdb

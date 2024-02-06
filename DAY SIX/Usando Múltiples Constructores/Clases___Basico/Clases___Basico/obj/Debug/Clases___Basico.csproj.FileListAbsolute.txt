@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Clases___Basico\Clases___Basico\bin\Debug\Clases___Basico.exe.config
+C:\Users\usuario\source\repos\Clases___Basico\Clases___Basico\bin\Debug\Clases___Basico.exe
+C:\Users\usuario\source\repos\Clases___Basico\Clases___Basico\bin\Debug\Clases___Basico.pdb
+C:\Users\usuario\source\repos\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.exe
+C:\Users\usuario\source\repos\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\bin\Debug\Clases___Basico.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\bin\Debug\Clases___Basico.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\bin\Debug\Clases___Basico.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Usando Múltiples Constructores\Clases___Basico\Clases___Basico\obj\Debug\Clases___Basico.pdb

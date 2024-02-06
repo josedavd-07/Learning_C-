@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.exe.config
+C:\Users\usuario\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.exe
+C:\Users\usuario\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.pdb
+C:\Users\usuario\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.exe
+C:\Users\usuario\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop Do While\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.pdb

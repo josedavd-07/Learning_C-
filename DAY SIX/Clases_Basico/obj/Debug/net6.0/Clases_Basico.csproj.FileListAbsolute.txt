@@ -1,0 +1,14 @@
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\bin\Debug\net6.0\Clases_Basico.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\bin\Debug\net6.0\Clases_Basico.deps.json
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\bin\Debug\net6.0\Clases_Basico.runtimeconfig.json
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\bin\Debug\net6.0\Clases_Basico.dll
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\bin\Debug\net6.0\Clases_Basico.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.GeneratedMSBuildEditorConfig.editorconfig
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.AssemblyInfoInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.AssemblyInfo.cs
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.dll
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\refint\Clases_Basico.dll
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\Clases_Basico.genruntimeconfig.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY SIX\Clases_Basico\obj\Debug\net6.0\ref\Clases_Basico.dll

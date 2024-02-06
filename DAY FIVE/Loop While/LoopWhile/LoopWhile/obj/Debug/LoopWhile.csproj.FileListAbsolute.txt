@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\LoopWhile\LoopWhile\bin\Debug\LoopWhile.exe.config
+C:\Users\usuario\source\repos\LoopWhile\LoopWhile\bin\Debug\LoopWhile.exe
+C:\Users\usuario\source\repos\LoopWhile\LoopWhile\bin\Debug\LoopWhile.pdb
+C:\Users\usuario\source\repos\LoopWhile\LoopWhile\obj\Debug\LoopWhile.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\LoopWhile\LoopWhile\obj\Debug\LoopWhile.exe
+C:\Users\usuario\source\repos\LoopWhile\LoopWhile\obj\Debug\LoopWhile.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\bin\Debug\LoopWhile.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\bin\Debug\LoopWhile.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\bin\Debug\LoopWhile.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\obj\Debug\LoopWhile.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\obj\Debug\LoopWhile.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\obj\Debug\LoopWhile.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Loop While\LoopWhile\LoopWhile\obj\Debug\LoopWhile.pdb

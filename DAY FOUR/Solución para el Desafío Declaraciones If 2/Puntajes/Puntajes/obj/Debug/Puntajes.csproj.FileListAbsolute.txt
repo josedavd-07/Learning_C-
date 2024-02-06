@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\Puntajes\Puntajes\bin\Debug\Puntajes.exe.config
+C:\Users\usuario\source\repos\Puntajes\Puntajes\bin\Debug\Puntajes.exe
+C:\Users\usuario\source\repos\Puntajes\Puntajes\bin\Debug\Puntajes.pdb
+C:\Users\usuario\source\repos\Puntajes\Puntajes\obj\Debug\Puntajes.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Puntajes\Puntajes\obj\Debug\Puntajes.exe
+C:\Users\usuario\source\repos\Puntajes\Puntajes\obj\Debug\Puntajes.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\bin\Debug\Puntajes.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\bin\Debug\Puntajes.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\bin\Debug\Puntajes.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\obj\Debug\Puntajes.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\obj\Debug\Puntajes.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\obj\Debug\Puntajes.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FOUR\Solución para el Desafío Declaraciones If 2\Puntajes\Puntajes\obj\Debug\Puntajes.pdb

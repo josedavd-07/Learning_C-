@@ -1,0 +1,6 @@
+C:\Users\usuario\source\repos\Constantes\Constantes\bin\Debug\Constantes.exe.config
+C:\Users\usuario\source\repos\Constantes\Constantes\bin\Debug\Constantes.exe
+C:\Users\usuario\source\repos\Constantes\Constantes\bin\Debug\Constantes.pdb
+C:\Users\usuario\source\repos\Constantes\Constantes\obj\Debug\Constantes.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Constantes\Constantes\obj\Debug\Constantes.exe
+C:\Users\usuario\source\repos\Constantes\Constantes\obj\Debug\Constantes.pdb

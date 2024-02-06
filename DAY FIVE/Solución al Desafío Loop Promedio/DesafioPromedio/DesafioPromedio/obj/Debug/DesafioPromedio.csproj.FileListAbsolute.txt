@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.exe.config
+C:\Users\usuario\source\repos\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.exe
+C:\Users\usuario\source\repos\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.pdb
+C:\Users\usuario\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.exe
+C:\Users\usuario\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.exe.config
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.pdb
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.csproj.AssemblyReference.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.csproj.CoreCompileInputs.cache
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.exe
+D:\MASTERCLASS C# 28 DAYS WITH UNITY\DAY FIVE\Solución al Desafío Loop Promedio\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.pdb
